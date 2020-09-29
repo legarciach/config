@@ -1,0 +1,6 @@
+server:
+  port: 8006
+configuracion:
+  texto: Configurando ambiente Desarrollo
+
+
